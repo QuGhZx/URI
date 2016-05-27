@@ -1,4 +1,4 @@
-//URI Problem #1025 "Where is the Marble?"
+//URI Problem #1025 "Where is the Marble?" C++
 #include <iostream>
 #include <vector>
 #include <algorithm>
